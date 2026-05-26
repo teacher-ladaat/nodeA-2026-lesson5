@@ -1,0 +1,25 @@
+{
+  "name": "npm-and-http",
+  "version": "1.0.0",
+  "description": "my node project for npm & http",
+  "keywords": [
+    "npm",
+    "http",
+    "server"
+  ],
+  "homepage": "https://github.com/teacher-ladaat/nodeA-lesson5#readme",
+  "bugs": {
+    "url": "https://github.com/teacher-ladaat/nodeA-lesson5/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teacher-ladaat/nodeA-lesson5.git"
+  },
+  "license": "ISC",
+  "author": "node teacher",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
