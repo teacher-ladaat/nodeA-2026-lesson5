@@ -5,7 +5,10 @@
 //#endregion
 
 //#region ES6 modules
-export const mult = (a, b) => a * b;
+export const mult = (a, b) => {
+    if (!b) return a;
+    return a * b;
+}
 export const pow = (a, b) => a ** b;
 
 class Person {
