@@ -7,13 +7,13 @@
     "http",
     "server"
   ],
-  "homepage": "https://github.com/teacher-ladaat/nodeA-lesson5#readme",
+  "homepage": "https://github.com/teacher-ladaat/nodeA-2026-lesson5#readme",
   "bugs": {
-    "url": "https://github.com/teacher-ladaat/nodeA-lesson5/issues"
+    "url": "https://github.com/teacher-ladaat/nodeA-2026-lesson5/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/teacher-ladaat/nodeA-lesson5.git"
+    "url": "git+https://github.com/teacher-ladaat/nodeA-2026-lesson5.git"
   },
   "license": "ISC",
   "author": "node teacher",
