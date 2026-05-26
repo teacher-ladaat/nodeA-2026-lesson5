@@ -17,10 +17,15 @@
   },
   "license": "ISC",
   "author": "node teacher",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "dev": "node --watch index",
+    "exam1": "node index 10",
+    "exam2": "node index 20",
+    "exam3": "node index 0",
+    "test": "vitest"
   },
   "devDependencies": {
     "vitest": "^4.1.7"
